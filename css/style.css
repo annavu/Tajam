@@ -875,10 +875,6 @@ li a:hover {
   padding: 30px 20px;
 }
 
-.portfolio img {
-  width: 33.33%;
-} 
-
 .portfolio {
   grid-template-columns: repeat(2, 1fr);
   }  
